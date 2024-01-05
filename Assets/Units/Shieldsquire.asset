@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b4f264ec980784c96326138c4d6eda, type: 3}
+  m_Name: Shieldsquire
+  m_EditorClassIdentifier: 
+  name: Shieldsquire
+  description: Who needs a sword when you can wield a two-handed shield. The only
+    drawback is that you're really slow dragging that thing around.
+  sprite: {fileID: 21300000, guid: bfb0052af38214a46879636c1d118d2c, type: 3}
+  maxHealth: 70
+  maxDamage: 15
+  type: 1
+  speed: 3
+  specialSkill: 0
+  specialSkillValue: 0
+  ammunition: -1

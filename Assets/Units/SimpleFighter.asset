@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b4f264ec980784c96326138c4d6eda, type: 3}
+  m_Name: SimpleFighter
+  m_EditorClassIdentifier: 
+  name: Simple Fighter
+  description: Big, muscular and as bright as a new moon. Likes to skip leg day for
+    additional chest workout.
+  sprite: {fileID: 21300000, guid: fc14cd0dd11158149bf183e24c44862c, type: 3}
+  maxHealth: 40
+  maxDamage: 10
+  type: 1
+  speed: 2
+  specialSkill: 0
+  specialSkillValue: 0
+  ammunition: -1

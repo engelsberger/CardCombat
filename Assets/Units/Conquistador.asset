@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b4f264ec980784c96326138c4d6eda, type: 3}
+  m_Name: Conquistador
+  m_EditorClassIdentifier: 
+  name: Conquistador
+  description: With his pike this guy can stab enemies from beind the first row.
+    If you're in need of a friend just compliment his moustache.
+  sprite: {fileID: 21300000, guid: 961c45bf807fdf74ab6c0fd4f623101a, type: 3}
+  maxHealth: 30
+  maxDamage: 20
+  type: 2
+  speed: 2
+  specialSkill: 0
+  specialSkillValue: 0
+  ammunition: -1
