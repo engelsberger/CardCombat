@@ -4,6 +4,8 @@ A side project I worked on a few years ago, figured I'd upload it here before it
 
 It's a round based combat game with cards, where the player to first lose two battles loses the game. It's a bit inspired by Gwent from The Witcher.
 
+To play (or change) it yourself you need to open it in Unity.
+
 # Rules
 
 Each player starts with two hearts. Losing a round or ending in a draw results in losing one heart. If you reach zero hearts, you lose.
